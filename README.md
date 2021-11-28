@@ -38,9 +38,8 @@
 * [x] Пройти курс по Git
 * [x] Создать свой первый проект на Github   
 * [] Цели на неделю от 29.11.2021
-* [] Изучить ajax
-* [] Изучить API
-* [] Изучить ajax
-* [] ES6+ and modular
-* [] DNS and HTTP
+  * [] Изучить API
+  * [] Изучить ajax
+  * [] ES6+ and modular
+  * [] DNS and HTTP
 <!-- TODO-IST:END -->
